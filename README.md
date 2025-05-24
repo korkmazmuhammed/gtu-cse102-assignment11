@@ -109,20 +109,17 @@ Clubs of Seven Spades of King
 
 Each part is standalone and can be compiled/run separately.
 
-**For Part 1:**
+
 ```bash
+# Part 1: Optimal Paths to Dispatch Center
 gcc 220104004043_PART1.c -o optimal_paths
 ./optimal_paths
-**For Part 2:**
-```bash
+
+# Part 2: Hospital Location Coverage Problem
 gcc 220104004043_PART2.c -o hospital_cover
 ./hospital_cover
-**For Part 3:**
-```bash
+
+# Part 3: Deck of Cards Initialization and Shuffling
 gcc 220104004043_PART3.c -o deck_shuffle
 ./deck_shuffle
 
-Author
-Muhammed Korkmaz
-Gebze Technical University
-Student ID: 220104004043
