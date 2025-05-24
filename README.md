@@ -123,3 +123,8 @@ gcc 220104004043_PART2.c -o hospital_cover
 gcc 220104004043_PART3.c -o deck_shuffle
 ./deck_shuffle
 
+
+## Author
+Muhammed Korkmaz  
+Gebze Technical University  
+Student ID: 220104004043
